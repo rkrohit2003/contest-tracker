@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest-tracker/static/css/main.5dcb1b3d.css",
+    "main.js": "/contest-tracker/static/js/main.c491467b.js",
+    "index.html": "/contest-tracker/index.html",
+    "main.5dcb1b3d.css.map": "/contest-tracker/static/css/main.5dcb1b3d.css.map",
+    "main.c491467b.js.map": "/contest-tracker/static/js/main.c491467b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dcb1b3d.css",
+    "static/js/main.c491467b.js"
+  ]
+}
