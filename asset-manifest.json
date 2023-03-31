@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/contest-tracker/static/css/main.5dcb1b3d.css",
-    "main.js": "/contest-tracker/static/js/main.83ca6909.js",
+    "main.js": "/contest-tracker/static/js/main.061fa43c.js",
     "index.html": "/contest-tracker/index.html",
     "main.5dcb1b3d.css.map": "/contest-tracker/static/css/main.5dcb1b3d.css.map",
-    "main.83ca6909.js.map": "/contest-tracker/static/js/main.83ca6909.js.map"
+    "main.061fa43c.js.map": "/contest-tracker/static/js/main.061fa43c.js.map"
   },
   "entrypoints": [
     "static/css/main.5dcb1b3d.css",
-    "static/js/main.83ca6909.js"
+    "static/js/main.061fa43c.js"
   ]
 }
